@@ -1,1 +1,3 @@
-See: See: http://emagnacarta.github.io/eMagnaCarta
+See: See: http://eMagnaCarta.org 
+
+Also see: http://emagnacarta.github.io/eMagnaCarta
